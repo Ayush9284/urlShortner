@@ -60,4 +60,3 @@ To set up and run this project locally, follow these steps:
 4.  **Redirect to original URL**:
     Access the generated short URL (e.g., `http://localhost:3000/your_short_code`) in your browser to be redirected to the original long URL.
 
-## Project Structure
