@@ -11,7 +11,7 @@ dotenv.config();
 const app = express();
 
 // Connect to MongoDB
-require('./config/db');
+require('./db/db');
 
 // Middleware
 app.use(bodyParser.json());
